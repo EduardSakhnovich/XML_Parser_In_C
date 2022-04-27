@@ -8,5 +8,6 @@
 *.obj
 *.idb
 *.pdb
+*.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
