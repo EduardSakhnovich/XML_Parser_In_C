@@ -1,0 +1,12 @@
+.vs/
+[Dd]ebug/
+*.tlog
+*.exe
+*.exe.recipe
+*.ilk
+*.log
+*.obj
+*.idb
+*.pdb
+*.vcxproj.filters
+*.vcxproj.user
